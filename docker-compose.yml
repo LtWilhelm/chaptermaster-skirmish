@@ -1,0 +1,7 @@
+version: "3.3"
+services:
+  app: 
+    build: .
+    ports:
+      - "5038:5038"
+    restart: unless-stopped

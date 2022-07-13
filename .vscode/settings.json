@@ -1,0 +1,31 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#ebae31",
+    "activityBar.activeBorder": "#0e9166",
+    "activityBar.background": "#ebae31",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#0e9166",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "sash.hoverBorder": "#ebae31",
+    "statusBar.background": "#d49515",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#a67410",
+    "statusBarItem.remoteBackground": "#d49515",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#d49515",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#d4951599",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.remoteColor": "#d49515",
+  "deno.enable": true,
+  "deno.unstable": true,
+  "git.ignoreLimitWarning": true,
+  "deno.suggest.imports.hosts": {
+    "https://deno.land": true,
+    "https://x.nest.land": true,
+    "https://crux.land": true,
+    "http://deno.land": false
+  }
+}
