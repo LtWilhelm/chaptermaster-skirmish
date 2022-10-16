@@ -2,7 +2,7 @@ import { Sockpuppet } from "https://deno.land/x/sockpuppet@Alpha0.5.3/mod.ts";
 import { Bson, MongoClient } from 'https://deno.land/x/mongo@v0.31.0/mod.ts';
 
 const client = new MongoClient();
-await client.connect('mongodb+srv://cmAdmin:8OxpklTtmBP5so18@cluster0.0walf.mongodb.net/?retryWrites=true&w=majority&authMechanism=SCRAM-SHA-1');
+// await client.connect('mongodb+srv://cmAdmin:8OxpklTtmBP5so18@cluster0.0walf.mongodb.net/?retryWrites=true&w=majority&authMechanism=SCRAM-SHA-1');
 
 const puppet = new Sockpuppet({
   port: 5038
