@@ -1,4 +1,4 @@
-import { Sockpuppet } from "https://deno.land/x/sockpuppet@Alpha0.5.4/mod.ts";
+import { Sockpuppet } from "https://deno.land/x/sockpuppet@Alpha0.5.6/mod.ts";
 import { Bson, MongoClient } from 'https://deno.land/x/mongo@v0.31.0/mod.ts';
 
 const client = new MongoClient();

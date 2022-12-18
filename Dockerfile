@@ -1,5 +1,5 @@
 
-FROM denoland/deno:latest
+FROM denoland/deno:1.29.1
 
 EXPOSE 5038
 
